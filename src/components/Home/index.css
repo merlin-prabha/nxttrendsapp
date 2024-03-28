@@ -1,0 +1,9 @@
+.app-container {
+  font-family: 'Roboto';
+}
+.tab-list-container {
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  width: 100%;
+}
